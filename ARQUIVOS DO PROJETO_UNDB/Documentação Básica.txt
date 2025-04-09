@@ -17,5 +17,11 @@ Bibliotecas instaladas:
 
 - Primeiro arquivo:
 . teste de leitura de arquivos
-- Segundo Arquivo
-
+- Segundo arquivo:
+. teste de conexão com o banco de dados com as credênciais no SQLSERVER
+- Terceiro arquivo:
+. Mapeamento das colunas do Excel em um Dataframe
+- Quarto arquivo
+. Tratamento de erros de tipagem devido aos tipos de dados advindos do excel
+- Quinto arquivo
+. Arquivo de teste de envio de dados para o DB
