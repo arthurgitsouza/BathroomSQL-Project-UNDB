@@ -1,0 +1,21 @@
+Documentação e relatórios:
+email: avalie@undb.edu.br
+pw: Dnkroz1255
+
+- Instalação de bibliotecas:
+	1 - Criação de Ambiente Virtual:
+		(myenv) C:\Users\joao.souza\Music\PROJETO>
+		A biblioteca foi instalada dentro de um ambiênte virtual para não haver a criação das pastas dentro do código do projeto.~
+		Recomendação: Ativar um ambiênte virutal para essa biblioteca e não desativar durante a gestão do códdigo, pois o código vai apresentar problemas por necessidades de bibliotecas instaladas dentro do ambiênte.
+
+Bibliotecas instaladas:
+- pandas
+- openpyxl
+- SQLAlchemy
+- pyodbc
+	
+
+- Primeiro arquivo:
+. teste de leitura de arquivos
+- Segundo Arquivo
+
